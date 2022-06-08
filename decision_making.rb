@@ -47,6 +47,6 @@ end
 # 5. If you changed the variable bear_choice to equal 3, what will be the final outcome be?
 # "You run as fast as you can into the next room. It's full of snakes!"
 # 6. If you changed the variable door_choice to equal 1, and the variable bear_choice to equal 2, what will be the final outcome be?
-#{}"You tell the bear the "hat" is too small and it starts to cry!"
+#"You tell the bear the "hat" is too small and it starts to cry!"
 # 7. What is your favorite ending?
 # "You stay with the bear and become it's best friend!"
