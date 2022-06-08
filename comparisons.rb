@@ -106,4 +106,4 @@ loves_to_play || loves_dog_park
 loves_to_play && age
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER: The final line of code evaluated to 1, because age was equal to a number instead of true or false
-# there was no way for loves_to_play and age to both be true if the age variable was not equal to true or false
+# In order for this to work correctly age would need to be defined differently, such as is_puppy = true 
